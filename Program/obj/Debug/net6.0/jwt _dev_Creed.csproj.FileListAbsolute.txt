@@ -1,0 +1,152 @@
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.csproj.AssemblyReference.cache
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.AssemblyInfoInputs.cache
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.AssemblyInfo.cs
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.csproj.CoreCompileInputs.cache
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\appsettings.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.exe
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.deps.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.runtimeconfig.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.pdb
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.jwt _dev_Creed.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.build.jwt _dev_Creed.props
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.jwt _dev_Creed.props
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.jwt _dev_Creed.props
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\scopedcss\bundle\jwt _dev_Creed.styles.css
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.csproj.CopyComplete
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\refint\jwt _dev_Creed.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.pdb
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.genruntimeconfig.cache
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\obj\Debug\net6.0\ref\jwt _dev_Creed.dll
+C:\Users\Omarowf\source\repos\jwt\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\appsettings.Development.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\appsettings.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.exe
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.deps.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.runtimeconfig.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\jwt _dev_Creed.pdb
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Humanizer.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.csproj.AssemblyReference.cache
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.GeneratedMSBuildEditorConfig.editorconfig
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.AssemblyInfoInputs.cache
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.AssemblyInfo.cs
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.csproj.CoreCompileInputs.cache
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.MvcApplicationPartsAssemblyInfo.cs
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.MvcApplicationPartsAssemblyInfo.cache
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.jwt _dev_Creed.Microsoft.AspNetCore.StaticWebAssets.props
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.build.jwt _dev_Creed.props
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.jwt _dev_Creed.props
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.jwt _dev_Creed.props
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets.pack.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets.build.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\staticwebassets.development.json
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\scopedcss\bundle\jwt _dev_Creed.styles.css
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.csproj.CopyComplete
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\refint\jwt _dev_Creed.dll
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.pdb
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\jwt _dev_Creed.genruntimeconfig.cache
+H:\courses\pro\backend\Projects\JWT\jwt\jwt _dev_Creed\obj\Debug\net6.0\ref\jwt _dev_Creed.dll
